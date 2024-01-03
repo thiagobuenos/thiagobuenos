@@ -3,7 +3,7 @@
 ![Thiago Bueno's GitHub stats 2024](https://github-readme-stats.vercel.app/api?username=thiagobuenos&show_icons=true&theme=dark&count_private=true)
 [![Felipe's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=thiagobuenos&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/thiagobuenos)
 <br>
-[![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagobuenos&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://github.com/thiagobuenos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobuenos&langs_count=8&theme=dark&count_private=true)](https://github.com/thiagobuenos)
 
 
 
