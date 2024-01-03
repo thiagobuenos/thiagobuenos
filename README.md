@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Thiago Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobuenos&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobuenos&langs_count=8&theme=radical&count_private=true)](https://github.com/thiagobuenos)
+
 <!--
 **thiagobuenos/thiagobuenos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
